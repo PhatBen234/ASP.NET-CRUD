@@ -1,0 +1,76 @@
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\appsettings.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.staticwebassets.runtime.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.exe
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.deps.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.runtimeconfig.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.pdb
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.csproj.AssemblyReference.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.AssemblyInfoInputs.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.AssemblyInfo.cs
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.RazorAssemblyInfo.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.RazorAssemblyInfo.cs
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.SalesOrderApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.build.SalesOrderApp.props
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalesOrderApp.props
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalesOrderApp.props
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\bundle\SalesOrderApp.styles.css
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\projectbundle\SalesOrderApp.bundle.scp.css
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrd.90FFC669.Up2Date
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\refint\SalesOrderApp.dll
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.pdb
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.genruntimeconfig.cache
+C:\Users\vulet\source\repos\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\ref\SalesOrderApp.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\appsettings.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.staticwebassets.runtime.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.exe
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.deps.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.runtimeconfig.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\SalesOrderApp.pdb
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.csproj.AssemblyReference.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.AssemblyInfoInputs.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.AssemblyInfo.cs
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.RazorAssemblyInfo.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.RazorAssemblyInfo.cs
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.SalesOrderApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.build.SalesOrderApp.props
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalesOrderApp.props
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalesOrderApp.props
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\bundle\SalesOrderApp.styles.css
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\scopedcss\projectbundle\SalesOrderApp.bundle.scp.css
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrd.90FFC669.Up2Date
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\refint\SalesOrderApp.dll
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.pdb
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\SalesOrderApp.genruntimeconfig.cache
+C:\Users\vulet\Downloads\New folder\SalesOrderApp\SalesOrderApp\obj\Debug\net8.0\ref\SalesOrderApp.dll

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\data\\salesorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\data\\salesorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\salesorder\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\salesorder\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\salesorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\salesorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\salesorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\salesorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\salesorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\salesorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|c:\\users\\vulet\\downloads\\new folder\\salesorderapp\\salesorderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D33262-FE33-4C8C-9D5C-7D3B284DC2CC}|SalesOrderApp\\SalesOrderApp.csproj|solutionrelative:salesorderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesOrderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Data\\SalesOrderDAL.cs",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Data\\SalesOrderDAL.cs",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Data\\SalesOrderDAL.cs",
+              "RelativeToolTip": "SalesOrderApp\\Data\\SalesOrderDAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:17:18.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Models\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Models\\SalesOrder.cs",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Models\\SalesOrder.cs",
+              "RelativeToolTip": "SalesOrderApp\\Models\\SalesOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:17:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesOrderApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\appsettings.json",
+              "RelativeToolTip": "SalesOrderApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T12:16:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\SalesOrder\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Delete.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\SalesOrder\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T11:10:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Controllers\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Controllers\\SalesOrderController.cs",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Controllers\\SalesOrderController.cs",
+              "RelativeToolTip": "SalesOrderApp\\Controllers\\SalesOrderController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:07:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\SalesOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\SalesOrder\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:29:54.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\SalesOrder\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\SalesOrder\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T10:50:59.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\SalesOrder\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\SalesOrder\\Create.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\SalesOrder\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T10:02:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:39:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalesOrderApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\vulet\\Downloads\\New folder\\SalesOrderApp\\SalesOrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SalesOrderApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:39:02.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

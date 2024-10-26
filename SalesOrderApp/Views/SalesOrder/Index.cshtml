@@ -1,0 +1,73 @@
+﻿@model List<SalesOrderDALApp.Models.SalesOrder>
+@{
+    ViewData["Title"] = "Sales Orders";
+}
+
+<h1 class="text-center mt-4">@ViewData["Title"]</h1>
+
+<p class="text-end">
+    <a href="@Url.Action("Create", "SalesOrder")" class="btn btn-primary">Create New Order</a>
+</p>
+
+<table id="salesOrderTable" class="display table table-striped table-bordered mt-3">
+    <thead class="table-header-green text-center">
+        <tr>
+            <th>Sales Order ID</th>
+            <th>Sales Order Item</th>
+            <th>Work Order</th>
+            <th>Product ID</th>
+            <th>Product Description</th>
+            <th>Order Quantity</th>
+            <th>Order Status</th>
+            <th>Timestamp</th>
+            <th>Actions</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Data go here by jQuery DataTables -->
+    </tbody>
+</table>
+
+@section Scripts {
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
+
+    <!-- DataTables JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#salesOrderTable').DataTable({
+                ajax: {
+                    url: '/SalesOrder/api',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'salesOrderId' },
+                    { data: 'salesOrderItem' },
+                    { data: 'workOrder' },
+                    { data: 'productID' },
+                    { data: 'productDescription' },
+                    { data: 'orderQuantity' },
+                    { data: 'orderStatus' },
+                    {
+                        data: 'timestamp',
+                        render: function (data) {
+                            return new Date(data).toLocaleString();
+                        }
+                    },
+                    {
+                        data: 'salesOrderId',
+                        render: function (data) {
+                            return `
+                                        <a href="/SalesOrder/Edit/${data}" class="btn btn-sm btn-warning">Edit</a>
+                                        <a href="/SalesOrder/Delete/${data}" class="btn btn-sm btn-danger">Delete</a>
+                                    `;
+                        }
+                    }
+                ]
+            });
+        });
+    </script>
+}
